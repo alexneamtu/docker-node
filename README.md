@@ -1,11 +1,10 @@
 # Node.js
 
-
-![Build Status](https://travis-ci.org/alexneamtu/docker-node.svg?branch=master)
 [![dockeri.co](http://dockeri.co/image/_/node)](https://registry.hub.docker.com/_/node/)
 
 [![GitHub issues](https://img.shields.io/github/issues/nodejs/docker-node.svg "GitHub issues")](https://github.com/nodejs/docker-node)
 [![GitHub stars](https://img.shields.io/github/stars/nodejs/docker-node.svg "GitHub stars")](https://github.com/nodejs/docker-node)
+[![Build Status](https://travis-ci.org/alexneamtu/docker-node.svg)](https://travis-ci.org/alexneamtu/docker-node)
 
 The official Node.js docker image, made with love by the node community.
 
