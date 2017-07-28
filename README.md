@@ -1,7 +1,7 @@
 # Node.js
 
 
-[![Build Status](https://travis-ci.org/alexneamtu/docker-node.svg?branch=master)]
+![Build Status](https://travis-ci.org/alexneamtu/docker-node.svg?branch=master)
 [![dockeri.co](http://dockeri.co/image/_/node)](https://registry.hub.docker.com/_/node/)
 
 [![GitHub issues](https://img.shields.io/github/issues/nodejs/docker-node.svg "GitHub issues")](https://github.com/nodejs/docker-node)
